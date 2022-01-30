@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Models;
+using Dealership.Models;
 
-namespace Dealership
+namespace Dealership.Models
 {
 
   public class Program
@@ -22,7 +22,7 @@ namespace Dealership
 
       List<Car> CarsMatchingSearch = new List<Car>(0);
 
-      foreach (Car automobile in Cars)
+      foreach(Car automobile in Cars)
       {
         if (automobile.WorthBuying(maxPrice))
         {
@@ -32,7 +32,10 @@ namespace Dealership
 
       foreach(Car automobile in CarsMatchingSearch)
       {
-        Console.WriteLine(automobile.MakeModel);
+        Console.WriteLine("-----------------");
+        Console.WriteLine(automobile.GetMakeModel());
+        Console.WriteLine(automobile.GetMiles() + " miles");
+        Console.WriteLine("$" + automobile.GetPrice());
       }
     }
   }
