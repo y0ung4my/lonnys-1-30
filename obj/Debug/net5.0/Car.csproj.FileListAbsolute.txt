@@ -1,0 +1,16 @@
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.csproj.AssemblyReference.cache
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\Car.exe
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\Car.deps.json
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\Car.dll
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\ref\Car.dll
+C:\Users\young\desktop\code-projects\lonnys-lemons\bin\Debug\net5.0\Car.pdb
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.dll
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\ref\Car.dll
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.pdb
+C:\Users\young\desktop\code-projects\lonnys-lemons\obj\Debug\net5.0\Car.genruntimeconfig.cache
