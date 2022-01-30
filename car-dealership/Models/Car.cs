@@ -6,7 +6,7 @@ namespace Dealership.Models
   public class Car
   {
     private string _makeModel;
-    private int _price;
+    private float _price;
     private int _miles;
 
     public Car(string makeModel, int price, int miles)
@@ -16,12 +16,19 @@ namespace Dealership.Models
       _miles = miles;
     }
 
+    public float SetPrice()
+    {
+      float newPrice = Convert.ToSingle(_price * .9);
+      return newPrice;
+    }
+
+
     public string GetMakeModel()
     {
       return _makeModel;
     }
 
-    public int GetPrice()
+    public float GetPrice()
     {
       return _price;
     }
